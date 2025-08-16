@@ -7,7 +7,7 @@ Designed with a modern UI for a smooth user experience.
 ---
 
 ## 📸 Screenshot
-![Weather App Screenshot](./Weather-app.jpg)
+![Weather App Screenshot](./Screenshots/Weather-app.jpg)
 
 ---
 
