@@ -33,3 +33,16 @@ Designed with a modern UI for a smooth user experience.
    ```bash
    git clone https://github.com/your-username/react-weather-app.git
    cd react-weather-app
+
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Add API Key**
+- Create a .env file in the root directory
+- Add your weather API key:
+   ```bash
+   REACT_APP_WEATHER_API_KEY=your_api_key_here
+4. **Run the app**
+    ```bash
+    npm run dev
+
